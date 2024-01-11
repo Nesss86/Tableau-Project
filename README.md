@@ -16,7 +16,7 @@ For this project I was given two options. One which came with a data set compris
 
 ## Process
 ### Parse & Clean
-I started by parsing the data from the JSON file and created a csv file to load with the others. I utilized the capabilities of Tableau Prep to be able to clean the data to help streamline creating visualizations. 
+I started by parsing the data from the JSON file and created a .csv file to load with the others. I utilized the capabilities of Tableau Prep to be able to clean the data and to help streamline creating visualizations. 
 <img src="images/Clean Steps.png" alt="Tableau Prep">
 
 ### Connect Data
@@ -25,10 +25,18 @@ Once the data was cleaned, outputs were created for each file and connected to T
 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+I chose option one which involved data from the Open Canada Data Portal. I created 5 visulaizations that oultined the following:
+ - The trend of house of house prices across Canada in the last 40 years
+ - Compare the trend after 2005 with actual benchmark prices
+ - Compare this trend with the trend of office prices
+ - Create a heatmap of Canada with current house prices for each available district. (While i was not able to accomplish this, I was able to create a symbol map of housing starts and completions per province)
+ - Compare trend of house prices with earnings
+
+
+   
 
 ## Challenges 
-(discuss challenges you faced in the project)
+The challenges I faced in this project was not having a better comprehensive view of what some of the data was explaining, parsing the data from the JSON file to obtain weekly earnings, and achieving some of my desired visualizations. 
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time I would research the data more, try to access current data to compare, become more proficient in Tableau to develop a wider range of visualizations.
