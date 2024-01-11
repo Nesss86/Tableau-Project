@@ -32,6 +32,10 @@ I chose option one which involved data from the Open Canada Data Portal. I creat
  - Create a heatmap of Canada with current house prices for each available district. (While i was not able to accomplish this, I was able to create a symbol map of housing starts and completions per province)
  - Compare trend of house prices with earnings
 
+<img src="images/Dashboard 1.png" alt="Tableau Desktop">
+<img src="images/Dashboard 2.png" alt="Tableau Desktop">
+<img src="images/Dashboard 3.png" alt="Tableau Desktop">
+
 
    
 
