@@ -16,9 +16,13 @@ For this project I was given two options. One which came with a data set compris
 
 ## Process
 ### Parse & Clean
+I started by parsing the data from the JSON file and created a csv file to load with the others. I utilized the capabilities of Tableau Prep to be able to clean the data to help streamline creating visualizations. 
 <img src="images/Clean Steps.png" alt="Tableau Prep">
 
-### (your step 2)
+### Connect Data
+Once the data was cleaned, outputs were created for each file and connected to Tableau Desktop. Relationships were created so that the combined information could be used to create the graphs for the dashboards.
+<img src="images/Connect Data.png" alt="Tableau Desktop">
+
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
