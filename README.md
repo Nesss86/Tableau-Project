@@ -15,7 +15,9 @@ For this project I was given two options. One which came with a data set compris
 5. Compare house prices to earnings
 
 ## Process
-### (your step 1)
+### Parse & Clean
+<img src="images/Clean Steps.png" alt="Tableau Prep">
+
 ### (your step 2)
 
 ## Results
