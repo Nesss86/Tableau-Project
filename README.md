@@ -25,7 +25,7 @@ Once the data was cleaned, outputs were created for each file and connected to T
 
 
 ## Results
-I chose option one which involved data from the Open Canada Data Portal. I created 5 visualizations that oultined the following:
+I chose option one which involved data from the Canadian Open Data Portal. I created 5 visualizations that oultined the following:
  - The trend of house of house prices across Canada in the last 40 years
  - Compare the trend after 2005 with actual benchmark prices
  - Compare this trend with the trend of office prices
